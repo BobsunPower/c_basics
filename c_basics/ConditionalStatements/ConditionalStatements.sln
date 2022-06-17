@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcellentResult", "Excellen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1to10", "..\FirstStepsInCoding\Nums1to10\Nums1to10.csproj", "{BA72F1DE-61F2-4EA0-B892-998F9C6EB9C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{E4E47A41-B7BB-4895-87CD-8589A6C798D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BA72F1DE-61F2-4EA0-B892-998F9C6EB9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA72F1DE-61F2-4EA0-B892-998F9C6EB9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA72F1DE-61F2-4EA0-B892-998F9C6EB9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E47A41-B7BB-4895-87CD-8589A6C798D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E47A41-B7BB-4895-87CD-8589A6C798D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E47A41-B7BB-4895-87CD-8589A6C798D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E47A41-B7BB-4895-87CD-8589A6C798D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
