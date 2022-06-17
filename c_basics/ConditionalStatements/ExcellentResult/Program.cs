@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace P01.ExcellentResult
+namespace ExcellentResult
 {
     class Program
     {
