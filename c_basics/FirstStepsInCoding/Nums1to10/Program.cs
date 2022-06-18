@@ -2,7 +2,7 @@
 
 namespace Nums1to10
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
