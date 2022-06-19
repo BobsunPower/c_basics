@@ -6,7 +6,7 @@ namespace RadiansToDegrees
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine(double.Parse(Console.ReadLine()) * 180 / Math.PI);
         }
     }
 }
