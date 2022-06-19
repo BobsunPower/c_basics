@@ -6,7 +6,7 @@ namespace USDtoBGN
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine(double.Parse(Console.ReadLine()) * 1.79549);
         }
     }
 }
