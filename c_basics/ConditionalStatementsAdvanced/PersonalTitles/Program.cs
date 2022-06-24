@@ -16,7 +16,7 @@ namespace PersonalTitles
             else
             {
                 if (sex == 'm') { Console.WriteLine("Master"); }
-                else { Console.WriteLine("Miss"); }
+                else { Console.WriteLine("Miss");}
             }
         }
     }
