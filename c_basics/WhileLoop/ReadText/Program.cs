@@ -6,7 +6,8 @@ namespace ReadText
     {
         static void Main(string[] args)
         {
-            
+            string txt;
+            while ((txt = Console.ReadLine()) != "Stop") {Console.WriteLine(txt);}
         }
     }
 }
